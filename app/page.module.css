@@ -18,6 +18,11 @@
   font-family: var(--font-mono);
 }
 
+@font-face {
+  font-family: 'Cascadia Mono';
+  src: url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+}
+
 .description a {
   display: flex;
   justify-content: center;

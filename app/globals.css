@@ -73,10 +73,7 @@
   }
 }
 
-@font-face {
-  font-family: 'Cascadia Mono';
-  src: url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
-}
+
 
 * {
   box-sizing: border-box;
